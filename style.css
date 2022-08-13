@@ -51,7 +51,7 @@ header ul li{
 }
 header ul li a{
     display: inline-block;
-    color: red;
+    color: #ff2205;
     font-weight: 300;
     margin-right: 55px;
     text-decoration: none;
